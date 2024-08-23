@@ -22,3 +22,9 @@ EXTRAS:
 |STUDENT ID                 | 23B9036                                                              |
 |BIO                        | Half bar Half Student                                                              |
 |FAVOURITE MATH EQ/CONCEPT  | Introduction to Trigonometry                                                              |
+
+|FULL NAME                  |  Muhd Rayme Hijazi                                                             |
+|---------------------------|---------------------------------------------------------------|
+|STUDENT ID                 |  23b2016                                                             |
+|BIO                        |   from lumut                                                            |
+|FAVOURITE MATH EQ/CONCEPT  |    combi                                                           |
